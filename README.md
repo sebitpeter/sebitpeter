@@ -10,7 +10,7 @@
   </a>
 
   <a href="https://github.com/sebitpeter">
-    <img src="https://img.shields.io/badge/GitHub-davelee001-black?style=flat-square&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-sebitpeter-black?style=flat-square&logo=github">
   </a>
 
   <a href="https://ug.linkedin.com/in/.....">
@@ -52,12 +52,12 @@ I am a ......................
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=davelee001&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=davelee001&theme=tokyonight&hide_border=true" alt="GitHub streak">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sebitpeter&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sebitpeter&theme=tokyonight&hide_border=true" alt="GitHub streak">
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davelee001&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebitpeter&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
 </p>
 
 ---
@@ -65,7 +65,7 @@ I am a ......................
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davelee001&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebitpeter&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph">
 </p>
 
 ---
@@ -93,7 +93,7 @@ I am a ......................
 ## 🌍 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=davelee001&label=Profile%20Visitors&color=blueviolet&style=for-the-badge" alt="Profile visitors">
+  <img src="https://komarev.com/ghpvc/?username=sebitpeter&label=Profile%20Visitors&color=blueviolet&style=for-the-badge" alt="Profile visitors">
 </p>
 
 ---
